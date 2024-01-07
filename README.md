@@ -7,13 +7,13 @@
 [![codecov.io](https://codecov.io/github/mwouts/jupytext/coverage.svg?branch=main)](https://codecov.io/gh/mwouts/jupytext/branch/main)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![GitHub language count](https://img.shields.io/github/languages/count/mwouts/jupytext)](docs/languages.md)
-[![Conda Version](https://img.shields.io/conda/vn/conda-forge/jupytext.svg)](https://anaconda.org/conda-forge/jupytext)
+[![Conda Version](https://anaconda.org/conda-forge/jupytext/badges/version.svg)](https://anaconda.org/conda-forge/jupytext/)
 [![Pypi](https://img.shields.io/pypi/v/jupytext.svg)](https://pypi.python.org/pypi/jupytext)
 [![pyversions](https://img.shields.io/pypi/pyversions/jupytext.svg)](https://pypi.python.org/pypi/jupytext)
 [![Binder:lab](https://img.shields.io/badge/binder-jupyterlab-0172B2.svg)](https://mybinder.org/v2/gh/mwouts/jupytext/main?urlpath=lab/tree/demo/get_started.ipynb)
 [![Binder:notebook](https://img.shields.io/badge/binder-notebook-0172B2.svg)](https://mybinder.org/v2/gh/mwouts/jupytext/main?filepath=demo)
 [![launch - renku](https://renkulab.io/renku-badge.svg)](https://renkulab.io/projects/best-practices/jupytext/sessions/new?autostart=1)
-[![](https://img.shields.io/badge/YouTube-JupyterCon%202020-red.svg)](https://www.youtube.com/watch?v=SDYdeVfMh48)
+[![Jupyter Con 2020](https://img.shields.io/badge/YouTube-JupyterCon%202020-red.svg)](https://www.youtube.com/watch?v=SDYdeVfMh48)
 
 # Jupytext
 
@@ -50,7 +50,11 @@ or
 
 Then, restart your Jupyter Lab server, and make sure Jupytext is activated in Jupyter:  `.py` and `.md` files have a Notebook icon, and you can open them as Notebooks with a right click in Jupyter Lab.
 
-![](https://github.com/mwouts/jupytext/blob/64b4be818508760116f91bf156342cb4cf724d93/docs/images/jupyterlab_right_click.png?raw=true)
+![Notebook icon on text notebooks](https://github.com/mwouts/jupytext/blob/64b4be818508760116f91bf156342cb4cf724d93/docs/images/jupyterlab_right_click.png?raw=true)
+
+Jupytext comes with a front end extension for Jupyter Lab. The latest release of Jupytext ()
+
+Note: starting with `jupytext>=1.16`, the front end extension for Jupyter Lab requires Jupyter Lab 4 or Jupyter Notebook 7.
 
 ## Paired Notebooks
 
