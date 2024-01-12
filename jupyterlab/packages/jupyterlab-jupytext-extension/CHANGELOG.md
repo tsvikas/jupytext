@@ -1,3 +1,5 @@
+# 1.4.2-dev (2024-01-12)
+
 # 1.4.1 (2023-11-27)
 
 - The Jupytext Menu is back! And text notebooks can be created directly from the launcher. This is an outstanding contribution by [Mahendra Paipuri](https://github.com/mahendrapaipuri) ([#1154](https://github.com/mwouts/jupytext/issues/1154), [#1163](https://github.com/mwouts/jupytext/issues/1163)). This requires JupyterLab 4.x or Jupyter Notebook 7.x.
